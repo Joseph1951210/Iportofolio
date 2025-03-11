@@ -1,0 +1,15 @@
+org\example\backend01\Config\WebConfig$1.class
+org\example\backend01\SecurityConfiguration.class
+org\example\backend01\Backend01Application.class
+org\example\backend01\Config\SecurityConfig.class
+org\example\backend01\repository\MediaFileRepository.class
+org\example\backend01\model\MediaFile.class
+org\example\backend01\repository\UserRepository.class
+org\example\backend01\controller\AuthController.class
+org\example\backend01\model\TemplateObject.class
+org\example\backend01\model\User.class
+org\example\backend01\model\Template.class
+org\example\backend01\controller\MediaController.class
+org\example\backend01\repository\TemplateRepository.class
+org\example\backend01\Config\WebConfig.class
+org\example\backend01\controller\TemplateController.class

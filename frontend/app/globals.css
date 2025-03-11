@@ -1,0 +1,51 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* 
+:root {
+  --background: #f1f5f9;
+  --foreground: #171717;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --background: #0a0a0a;
+    --foreground: #ededed;
+  }
+}
+
+body {
+  color: var(--foreground);
+  background: var(--background);
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+@layer utilities {
+  .text-balance {
+    text-wrap: balance;
+  }
+} */
+
+/* 针对 Chrome 浏览器的滚动条样式 */
+::-webkit-scrollbar {
+  width: 4px;    /* 设置垂直滚动条的宽度 */
+  height: 4px;   /* 设置水平滚动条的高度 */
+}
+
+/* 滚动条轨道 */
+::-webkit-scrollbar-track {
+  background: #f1f1f1; /* 轨道的背景颜色 */
+  border-radius: 10px; /* 圆角 */
+}
+
+/* 滚动条滑块 */
+::-webkit-scrollbar-thumb {
+  background: #888;      /* 滑块的背景颜色 */
+  border-radius: 10px;   /* 圆角 */
+}
+
+/* 滑块在 hover 状态下的颜色 */
+::-webkit-scrollbar-thumb:hover {
+  background: #555;      /* 滑块在悬停时的颜色 */
+}

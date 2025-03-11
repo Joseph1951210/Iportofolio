@@ -1,0 +1,14 @@
+E:\Aalto Projects\iportfolio\backend\Backend01\src\main\java\org\example\backend01\Backend01Application.java
+E:\Aalto Projects\iportfolio\backend\Backend01\src\main\java\org\example\backend01\Config\SecurityConfig.java
+E:\Aalto Projects\iportfolio\backend\Backend01\src\main\java\org\example\backend01\Config\WebConfig.java
+E:\Aalto Projects\iportfolio\backend\Backend01\src\main\java\org\example\backend01\controller\AuthController.java
+E:\Aalto Projects\iportfolio\backend\Backend01\src\main\java\org\example\backend01\controller\MediaController.java
+E:\Aalto Projects\iportfolio\backend\Backend01\src\main\java\org\example\backend01\controller\TemplateController.java
+E:\Aalto Projects\iportfolio\backend\Backend01\src\main\java\org\example\backend01\model\MediaFile.java
+E:\Aalto Projects\iportfolio\backend\Backend01\src\main\java\org\example\backend01\model\Template.java
+E:\Aalto Projects\iportfolio\backend\Backend01\src\main\java\org\example\backend01\model\TemplateObject.java
+E:\Aalto Projects\iportfolio\backend\Backend01\src\main\java\org\example\backend01\model\User.java
+E:\Aalto Projects\iportfolio\backend\Backend01\src\main\java\org\example\backend01\repository\MediaFileRepository.java
+E:\Aalto Projects\iportfolio\backend\Backend01\src\main\java\org\example\backend01\repository\TemplateRepository.java
+E:\Aalto Projects\iportfolio\backend\Backend01\src\main\java\org\example\backend01\repository\UserRepository.java
+E:\Aalto Projects\iportfolio\backend\Backend01\src\main\java\org\example\backend01\SecurityConfiguration.java
